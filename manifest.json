@@ -1,0 +1,12 @@
+{
+  "name": "NASA Picture of the Day",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Displays the NASA Picture of the Day on new tabs",
+  "chrome_url_overrides": {
+    "newtab": "home.html"
+  },
+  "action": {
+    "default_icon": "icon.png"
+  }
+}
